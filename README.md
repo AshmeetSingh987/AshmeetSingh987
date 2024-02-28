@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashmeet Singh</h1>
-<h3 align="center">A Full Stack Developer fond of Mern Stack (Mongo DB , Node JS ,React JS , Express JS ) also a graphic Designer and a UI/UX Developer. Enjoy Problem Solving && #BlockChain Development </h3>
+<h3 align="center">A Full Stack Developer fond of Mern Stack (Mongo DB , Node JS ,React JS , Express JS ). Enjoy Problem Solving && #BlockChain Development and doing security Reviews </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmeetsingh987&label=Profile%20views&color=0e75b6&style=flat" alt="ashmeetsingh987" /> </p>
 
