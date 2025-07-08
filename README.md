@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashmeet Singh</h1>
-<h3 align="center">A Full Stack Developer fond of Mern Stack (Mongo DB , Node JS ,React JS , Express JS ). Enjoy Problem Solving && #BlockChain Development and doing security Reviews </h3>
-
+<h3 align="center"> I am a Senior Blockchain Engineer and Web3 Security Researcher, specializing in advanced fuzzing and invariant testing. Passionate about vulnerability hunting across Sway, Solidity, Vyper, and Move smart contract languages. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmeetsingh987&label=Profile%20views&color=0e75b6&style=flat" alt="ashmeetsingh987" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashmeetsingh987" alt="ashmeetsingh987" /></a> </p>
